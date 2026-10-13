@@ -1,0 +1,7 @@
+<description>Python client server tutorial</description>
+<maintainer email="george_xu@berkeley.edu">George Xu</maintainer>
+<license>Apache-2.0</license>
+<exec_depend>rclpy</exec_depend>
+<exec_depend>std_msgs</exec_depend>
+<exec_depend>example_interfaces</exec_deped>
+<exec_depend>sys</exec_depend>
