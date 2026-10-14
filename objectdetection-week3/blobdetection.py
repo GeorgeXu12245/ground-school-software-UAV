@@ -3,7 +3,7 @@ import numpy as np
 
 image = cv2.imread('polka_dots_2.jpg')
 grey_scale_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-grey_scale_image = cv2.GaussianBlur(grey_scale_image, (7, 7), 0)
+grey_scale_image = cv2.GaussianBlur(grey_scale_image, (9, 9), 0)
 '''
 params_1 = cv2.SimpleBlobDetector_Params()
 params_1.minDistBetweenBlobs = 7.0
