@@ -1,0 +1,38 @@
+[0.774s] Invoking command in '/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/src/py_pubsub': CONDA_PROMPT_MODIFIER=(base) PIXI_PROMPT=(week5-ros2) PYTHONPATH=/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/prefix_override:/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/.pixi/envs/default/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages: SHLVL=3 _=/usr/bin/env /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/.pixi/envs/default/bin/python3.12 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build install --record /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/install.log --single-version-externally-managed install_data
+[1.229s] running egg_info
+[1.252s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.252s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.267s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.280s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.280s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.280s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.281s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.341s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.342s] adding license file 'LICENSE'
+[1.342s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.342s] running build
+[1.342s] running build_py
+[1.342s] creating /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub
+[1.343s] copying py_pubsub/__init__.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub
+[1.343s] copying py_pubsub/publisher_member_function.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub
+[1.343s] copying py_pubsub/subscriber_member_function.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub
+[1.344s] running install
+[1.346s] running install_lib
+[1.357s] creating /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[1.358s] copying /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[1.358s] copying /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[1.358s] copying /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[1.358s] byte-compiling /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/__init__.py to __init__.cpython-312.pyc
+[1.359s] byte-compiling /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-312.pyc
+[1.359s] byte-compiling /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-312.pyc
+[1.359s] running install_data
+[1.360s] creating /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[1.360s] copying resource/py_pubsub -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[1.360s] copying package.xml -> /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/share/py_pubsub
+[1.360s] running install_egg_info
+[1.371s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages/py_pubsub-0.0.0-py3.12.egg-info
+[1.372s] running install_scripts
+[1.398s] Installing listener script to /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/py_pubsub
+[1.398s] Installing talker script to /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/py_pubsub
+[1.400s] writing list of installed files to '/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/install.log'
+[1.419s] Invoked command in '/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/src/py_pubsub' returned '0': CONDA_PROMPT_MODIFIER=(base) PIXI_PROMPT=(week5-ros2) PYTHONPATH=/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/prefix_override:/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/.pixi/envs/default/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/install/py_pubsub/lib/python3.12/site-packages: SHLVL=3 _=/usr/bin/env /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/.pixi/envs/default/bin/python3.12 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/build install --record /Users/georgexu/Desktop/Berkeley 2026-2027/ground-school-software-UAV/week5-ros2/build/py_pubsub/install.log --single-version-externally-managed install_data
