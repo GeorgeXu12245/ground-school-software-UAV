@@ -3,7 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 img1 = cv2.imread('stitching-week2/sampled_frame_0.png',cv2.IMREAD_GRAYSCALE)
-img2 = cv2.imread('stitching-week2/sampled_frame_1.png',cv2.IMREAD_GRAYSCALE)
+img2 = cv2.imread('stitching-week2/sampled_frame_120.png',cv2.IMREAD_GRAYSCALE)
 
 orb = cv2.ORB_create()
 
